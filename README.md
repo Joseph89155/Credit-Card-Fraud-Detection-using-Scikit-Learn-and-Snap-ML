@@ -6,7 +6,7 @@ This project demonstrates how machine learning techniques can be applied to dete
 
 ## 📁 Project Overview
 
-- **Author**: Peter Pan  
+- **Author**: Joseph Maina  
 - **Dataset Source**: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Tools & Libraries**: Python, Scikit-Learn, Snap ML, Pandas, NumPy, Seaborn, Matplotlib  
 - **Techniques**: 
